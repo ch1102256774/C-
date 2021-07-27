@@ -7,15 +7,15 @@
 
 - 程序开始执行时，能在控制台向用户显式菜单栏信息，并读取存档至[](addressBook/addressBook.txt)文件中的联系人信息。
 
-  <img src="image\menu.png" alt="image-20210727153650360" style="zoom:100%;" />
+  <img src="https://github.com/ch1102256774/addressBook-amanagement-system/image/menu.png" alt="image-20210727153650360" style="zoom:100%;" />
 
 - 这之后，用户通过选择不同的功能按键，分别能够执行添加、显示、删除、查找、修改、清空联系人和退出程序操作。
 
-  ![添加联系人信息](image\add.png)
+  ![添加联系人信息](https://github.com/ch1102256774/addressBook-amanagement-system/image/add.png)
 
 - 若用户选择退出程序功能，程序在退出之前将联系人信息重新写入[](addressBook/addressBook.txt)文件中，保存修改之后的通讯录。
 
-  ![退出程序](image\exit.png)
+  ![退出程序](https://github.com/ch1102256774/addressBook-amanagement-system/image/exit.png)
 
 ## 数据结构
 
